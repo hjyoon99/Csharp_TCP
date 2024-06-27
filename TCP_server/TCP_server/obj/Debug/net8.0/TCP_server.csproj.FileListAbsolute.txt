@@ -1,0 +1,14 @@
+C:\Users\hyeju\Documents\CsharpLearn\TCP_server\TCP_server\bin\Debug\net8.0\TCP_server.exe
+C:\Users\hyeju\Documents\CsharpLearn\TCP_server\TCP_server\bin\Debug\net8.0\TCP_server.deps.json
+C:\Users\hyeju\Documents\CsharpLearn\TCP_server\TCP_server\bin\Debug\net8.0\TCP_server.runtimeconfig.json
+C:\Users\hyeju\Documents\CsharpLearn\TCP_server\TCP_server\bin\Debug\net8.0\TCP_server.dll
+C:\Users\hyeju\Documents\CsharpLearn\TCP_server\TCP_server\bin\Debug\net8.0\TCP_server.pdb
+C:\Users\hyeju\Documents\CsharpLearn\TCP_server\TCP_server\obj\Debug\net8.0\TCP_server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hyeju\Documents\CsharpLearn\TCP_server\TCP_server\obj\Debug\net8.0\TCP_server.AssemblyInfoInputs.cache
+C:\Users\hyeju\Documents\CsharpLearn\TCP_server\TCP_server\obj\Debug\net8.0\TCP_server.AssemblyInfo.cs
+C:\Users\hyeju\Documents\CsharpLearn\TCP_server\TCP_server\obj\Debug\net8.0\TCP_server.csproj.CoreCompileInputs.cache
+C:\Users\hyeju\Documents\CsharpLearn\TCP_server\TCP_server\obj\Debug\net8.0\TCP_server.dll
+C:\Users\hyeju\Documents\CsharpLearn\TCP_server\TCP_server\obj\Debug\net8.0\refint\TCP_server.dll
+C:\Users\hyeju\Documents\CsharpLearn\TCP_server\TCP_server\obj\Debug\net8.0\TCP_server.pdb
+C:\Users\hyeju\Documents\CsharpLearn\TCP_server\TCP_server\obj\Debug\net8.0\TCP_server.genruntimeconfig.cache
+C:\Users\hyeju\Documents\CsharpLearn\TCP_server\TCP_server\obj\Debug\net8.0\ref\TCP_server.dll
