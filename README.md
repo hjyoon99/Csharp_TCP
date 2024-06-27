@@ -15,7 +15,9 @@
 > ![image](https://github.com/hjyoon99/Csharp_TCP/assets/108658882/9ddf0907-2c6a-49e7-924e-e4b81e885098)
 > (출처: 위키피디아)
 > 
-- server와 client 간 연결은 3-way Handshake를 바탕으로 이루어진다.
+- server와 client 간 연결은 3-way HandShake를 바탕으로 이루어진다.
+
+## 3-Way HandShake
 - SYN: 클라이언트가 서버에게 SYN ("나 너랑 통신하고 싶어.")
 - SYN-ACK: 서버가 클라이언트에게 SYN-ACK ("그래? 나랑 진짜로 할거야?")
 - ACK: 클라이언트가 서버에게 ACK ("응! 통신하자!")
