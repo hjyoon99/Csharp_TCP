@@ -1,5 +1,5 @@
 # C#을 이용한 TCP통신
-> C#을 이용해서 서버와 클라이언트 통신
+- C#을 이용해서 서버와 클라이언트 통신
 
 ## TCP 통신이란?
 > TCP란 Transmission Control Protocol의 약자로 전송 제어 프로토콜을 말한다.
